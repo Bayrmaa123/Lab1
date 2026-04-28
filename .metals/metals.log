@@ -22,3 +22,274 @@ WARNING: Unmatched cancel notification for request id 14
 2026.04.28 20:55:47 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Lab1.java. Using fallback presentation compiler.
 2026.04.28 20:55:48 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Lab1.java. Output:
 
+2026.04.28 21:08:13 INFO  no build target found for c:\Users\User\OneDrive\Desktop\lab1\Lab1.java. Using fallback presentation compiler.
+2026.04.28 21:08:24 WARN  no build target for: C:\Users\User\OneDrive\Desktop\lab1\Circle.java
+2026.04.28 21:08:24 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java. Output:
+
+2026.04.28 21:08:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x8D) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+            ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                     ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                       ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                        ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+          ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+              ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                    ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                           ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                                 ^
+2026.04.28 21:08:27 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java. Output:
+
+2026.04.28 21:08:27 INFO  Created report: Optional[file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java]
+2026.04.28 21:08:27 INFO  QDox parse error in file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java (full report at: "C:\Users\User\OneDrive\Desktop\lab1\.metals\.reports\metals-full\2026-04-28\r_qdox-error_21-08-28-205.md")
+2026.04.28 21:08:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:28 WARN  no build target for: C:\Users\User\OneDrive\Desktop\lab1\Circle.java
+2026.04.28 21:08:28 INFO  QDox parse error in file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java (full report at: "C:\Users\User\OneDrive\Desktop\lab1\.metals\.reports\metals-full\2026-04-28\r_qdox-error_21-08-28-205.md")
+2026.04.28 21:08:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+Apr 28, 2026 9:08:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin -1, end 274, length 712
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin -1, end 274, length 712
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin -1, end 274, length 712
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4608)
+	at java.base/java.lang.String.substring(String.java:2711)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaDefinitionProvider.$anonfun$definitionImpl$5(JavaDefinitionProvider.scala:122)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definitionImpl(JavaDefinitionProvider.scala:70)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definitionOffset(JavaDefinitionProvider.scala:53)
+	at scala.meta.internal.pc.JavaDefinitionProvider.definition(JavaDefinitionProvider.scala:31)
+	at scala.meta.internal.pc.JavaPresentationCompiler.definition(JavaPresentationCompiler.scala:98)
+	at scala.meta.internal.metals.Compilers.$anonfun$definition$1(Compilers.scala:1230)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.definition(Compilers.scala:1221)
+	at scala.meta.internal.metals.Compilers.definition(Compilers.scala:1182)
+	at scala.meta.internal.metals.DefinitionProvider.fromCompiler$1(DefinitionProvider.scala:97)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$10(DefinitionProvider.scala:146)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:153)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	... 3 more
+
+2026.04.28 21:08:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:32 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x8D) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+            ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                     ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                       ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                        ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+          ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+              ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                    ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                           ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                                 ^
+2026.04.28 21:08:33 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java. Output:
+
+2026.04.28 21:08:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x8D) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+            ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                     ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                       ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                        ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+          ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+              ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                    ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                           ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                                 ^
+2026.04.28 21:08:33 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java. Output:
+
+2026.04.28 21:08:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x8D) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+            ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                     ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                       ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:5: error: unmappable character (0x81) for encoding windows-1252
+     * Эн�? кла�?�? нь дугуйн радиу�?ыг хадгалж,
+                                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                      ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:6: error: unmappable character (0x8D) for encoding windows-1252
+     * талбай болон хүр�?�?ний уртыг тооцоолдог.
+                                        ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+          ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+              ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                    ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                           ^
+C:\Users\User\OneDrive\Desktop\lab1\Circle.java:26: error: unmappable character (0x8D) for encoding windows-1252
+    // м�?д�?�?л�?л х�?вл�?х
+                                 ^
+2026.04.28 21:08:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:43 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java. Output:
+
+2026.04.28 21:08:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:45 INFO  QDox parse error in file:///C:/Users/User/OneDrive/Desktop/lab1/Circle.java (full report at: "C:\Users\User\OneDrive\Desktop\lab1\.metals\.reports\metals-full\2026-04-28\r_qdox-error_21-08-28-205.md")
+2026.04.28 21:08:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:45 WARN  no build target for: C:\Users\User\OneDrive\Desktop\lab1\Circle.java
+2026.04.28 21:08:45 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:56 WARN  no build target for: C:\Users\User\OneDrive\Desktop\lab1\Main.java
+2026.04.28 21:08:56 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/lab1/Main.java. Output:
+
+2026.04.28 21:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Circle.java. Using fallback presentation compiler.
+2026.04.28 21:08:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:08:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:08:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:08:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+2026.04.28 21:09:11 WARN  no build target for: C:\Users\User\OneDrive\Desktop\lab1\Main.java
+2026.04.28 21:09:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\lab1\Main.java. Using fallback presentation compiler.
+Apr 28, 2026 9:09:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 28, 2026 9:09:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
